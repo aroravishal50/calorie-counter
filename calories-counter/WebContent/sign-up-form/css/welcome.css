@@ -1,0 +1,62 @@
+
+
+.button {
+	
+	 background-color: #fed136; 
+ border-radius: 12px;
+ display: inline-block;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ height:50px;
+ width:150px;
+ display:inline-block;
+ margin-left:100px;
+ position:absolute;
+ transition: .5s ease;
+ top: 50%;
+ left: 55%;
+}
+.button1 {
+	 background-color: #fed136; 
+ border-radius: 12px;
+ display: inline-block;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ height:50px;
+ width:150px;
+ display:inline-block;
+ margin-left:100px;
+ position:absolute;
+ transition: .5s ease;
+ top: 60%;
+ left: 55%;	
+	
+}
+.button2 {
+		 background-color: #fed136; 
+ border-radius: 12px;
+ display: inline-block;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ height:50px;
+ width:150px;
+ display:inline-block;
+ margin-left:100px;
+ position:absolute;
+ transition: .5s ease;
+ top: 70%;
+ left: 55%;	
+}
+
+.button3 {
+	
+		 background-color: #fed136; 
+ border-radius: 12px;
+ display: inline-block;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ height:50px;
+ width:150px;
+ display:inline-block;
+ margin-left:100px;
+ position:absolute;
+ transition: .5s ease;
+ top: 80%;
+ left: 55%;	
+}
